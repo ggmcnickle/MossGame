@@ -104,7 +104,8 @@ Rc.int<-1		#Interval to increase C in loop
 Rn.int<-1		#Interval to increase N in loop
 Rc.max<-50		#Max C in loop, you can play with this to see it go nuts for larger values. If you make it bigger, make t
 Rc.min<-11		#Min C in loop
-Rn.max<-50		#Max N in loop, you can play with this to see it go nuts for larger values
+
+Rn.max<-50		#Max N in loop, you can play with this to see it go nuts for larger values
 Rn.min<-11		#Min N in loop
 Rc<-Rc.min		#start Rc @ Rc.min		
 Rn<-Rn.min		#start Rn @ Rn.min
