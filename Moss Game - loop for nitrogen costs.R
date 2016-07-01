@@ -104,7 +104,8 @@ nt.int<-0.01		#Interval to increase C in loop
 nh.int<-0.01		#Interval to increase N in loop
 nt.max<-.5		#Max C in loop,
 nt.min<-0.01		#Min C in loop
-nh.max<-.5		#Max N in loop,
+
+nh.max<-.5		#Max N in loop,
 nh.min<-.01		#Min N in loop
 nt<-nt.min		#start Rc @ Rc.min		
 nh<-nh.min		#start Rn @ Rn.min
