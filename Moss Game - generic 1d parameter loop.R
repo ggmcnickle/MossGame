@@ -100,7 +100,8 @@ Height<-as.numeric()	#empty Height vector
 
 #loop parameters
 param.int<-0.01		#Interval to increase N in loop
-param.max<-3		#Max N in loop,
+
+param.max<-3		#Max N in loop,
 param.min<-1		#Min N in loop		
 param<-param.min		#start Rn @ Rn.min
 
